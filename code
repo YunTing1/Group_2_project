@@ -15,7 +15,7 @@ GPT Details:
 - ChatGPT Version Date: January 2022
 
 Prompt Used:
-"Comment all code. Also create a header comment that contains a brief description 
+"The rotation of the servomotor is controlled according to the light, and it reverses after the rotation is complete or the light value falls below a certain value. Comment all code. Also create a header comment that contains a brief description 
 of the code, the GPT architecture, the exact ChatGPT version date, and the prompt used."
 
 -----------------------------------------------------------------------------------
